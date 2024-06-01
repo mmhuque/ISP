@@ -5,3 +5,6 @@ The demand for natural resources remains high, prompting the Oil and Gas industr
 
 
 For this analysis, we will utilize downhole drilling data from the Canada-Newfoundland and Labrador Offshore Petroleum Board (C-NLOPB). The C-NLOPB maintains a public data repository, accessible on their website (https://home-cnlopb.hub.arcgis.com/pages/well-inventory), which includes data on all drilling activities within their jurisdiction.
+
+
+In this study, We choose drilling data from well Hibernia 1638.
